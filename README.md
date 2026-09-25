@@ -37,7 +37,7 @@ Same workflow the skill teaches Bob; the script is the reproducible proof.
 
 ## Demo live (HuggingFace Spaces — judge mở URL, không setup)
 
-Space URL (điền sau khi tạo): `__PASTE_HF_URL__`
+Space URL (điền sau khi tạo): `https://crytobot459-bob-bounty-radar.static.hf.space`
 
 ```bash
 pip install -r requirements.txt && python3 app.py
